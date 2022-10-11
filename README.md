@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MArslan88
 - 👀 I’m interested in Coding | Teaching
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React Js
 - 💞️ I’m looking to collaborate on Android Projects
 - 📫 How to reach me : mhdarslan88@gmail.com
 
